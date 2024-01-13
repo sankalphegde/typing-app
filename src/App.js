@@ -2,7 +2,7 @@ import './App.css';
 import {useState, useEffect, useRef} from 'react'
 import { generate, count } from "random-words";
 const NUMB_OF_WORDS = 200
-const SECONDS = 5
+const SECONDS = 30
 
 
 function App() {
